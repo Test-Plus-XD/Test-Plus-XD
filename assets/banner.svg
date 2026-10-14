@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">NG Yu Ham Baldwin 吳宇涵, software developer</title>
+  <desc id="bannerDesc">Name banner with geometric shapes. The lettering settles into place from a diagonal offset; visitors who prefer reduced motion see a simple fade instead.</desc>
+  <!-- Latin lettering is Tektur by Adam Jagosz (SIL Open Font License 1.1), converted to outlines so it renders the same everywhere. -->
+  <style>
+    .cjk { font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Segoe UI", system-ui, sans-serif; font-size: 46px; font-weight: 700; letter-spacing: 8px; fill: #c9d1d9; }
+    .main    { fill: #f5f5f0; }
+    .slipRed  { fill: #d23b2e; opacity: 0.9; }
+    .slipGold { fill: #d9a21b; opacity: 0.9; }
+
+    /* Scatter then align: each piece starts 32px down and right, then springs into place with a stagger. */
+    .settle { animation: settle 1.1s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+    .d1 { animation-delay: 0.05s; }
+    .d2 { animation-delay: 0.15s; }
+    .d3 { animation-delay: 0.25s; }
+    .d4 { animation-delay: 0.35s; }
+    .d5 { animation-delay: 0.45s; }
+    .d6 { animation-delay: 0.55s; }
+    @keyframes settle {
+      from { transform: translate(32px, 32px); opacity: 0; }
+      to   { transform: translate(0, 0); opacity: 1; }
+    }
+
+    /* Print-style misregistration that resolves into a thin red and gold fringe behind the name. */
+    .slipRed  { animation: slipRed 1.1s cubic-bezier(0.34, 1.56, 0.64, 1) 0.15s both; }
+    .slipGold { animation: slipGold 1.1s cubic-bezier(0.34, 1.56, 0.64, 1) 0.15s both; }
+    @keyframes slipRed  { from { transform: translate(-16px, -8px); opacity: 0; } to { transform: translate(-2px, -1px); opacity: 0.9; } }
+    @keyframes slipGold { from { transform: translate(16px, 10px);  opacity: 0; } to { transform: translate(2px, 1.5px); opacity: 0.9; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .settle { animation: fade 0.4s ease both; }
+      .slipRed  { animation: none; transform: translate(-2px, -1px); }
+      .slipGold { animation: none; transform: translate(2px, 1.5px); }
+      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    }
+  </style>
+
+  <defs>
+    <path id="namePath" d="M60.6 146V99.8H72.5L87 122.6V99.8H100.2V146H88.4L73.8 123.2V146H60.6ZM104.7 136.1V109.7L114.6 99.8H139V112.3H119.2V133.5H129.8V128.5H123.2V117.3H142.3V146H114.6L104.7 136.1ZM174.6 146V132.1H169.2L161.1 99.8H176.6L180.2 119.6H183.6L187.2 99.8H202.7L194.6 132.1H189.2V146H174.6ZM240.8 109V146H214.4L205.2 136.8V109H219.7V133.5H226.3V109H240.8ZM262.2 146V99.8H276.8V115.6H285.3V99.8H299.9V146H285.3V128.8H276.8V146H262.2ZM304 136.8V124.9L324.4 124.2V120.9H305.3V109H329.7L339 118.3V146H313.2L304 136.8ZM318.5 131.5V134.8H324.4V130.2L318.5 131.5ZM343.7 109H389.9L399.2 118.3V146H385V120.6H378.4V146H364.5V120.6H357.9V146H343.7V109ZM435.1 118H444.1V111H435.1V118ZM435.1 134.8H445V127.2H435.1V134.8ZM458.9 109V118.3L454.5 121.8L460.2 126.5V136.8L451 146H420.6V99.8H449.7L458.9 109ZM463 136.8V124.9L483.5 124.2V120.9H464.3V109H488.8L498 118.3V146H472.3L463 136.8ZM477.5 131.5V134.8H483.5V130.2L477.5 131.5ZM502.8 146V99.8H517.3V146H502.8ZM557.7 99.8V146H531.3L521.4 136.1V118.9L531.3 109H543.2V99.8H557.7ZM535.9 134.1H543.2V120.9H535.9V134.1ZM566.1 146 560.9 109H575.6L577.9 134.1H578.6L581.8 113H593.4L596.6 134.1H597.2L599.5 109H614.3L609.1 146H591L587.6 127.1L584.1 146H566.1ZM617.4 146V109H632V146H617.4ZM617.4 106.4V97.8H632V106.4H617.4ZM636.7 146V109H663.1L672.4 118.3V146H657.9V121.6H651.3V146H636.7Z"/>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="298" rx="18" fill="#12151a" stroke="#2a2f37" stroke-width="2"/>
+
+  <!-- Geometric motif: square, triangle and circle -->
+  <g class="settle d1"><rect x="772" y="68" width="104" height="104" fill="none" stroke="#f5f5f0" stroke-width="4"/></g>
+  <g class="settle d3"><polygon points="840,224 900,104 960,224" fill="#d23b2e"/></g>
+  <g class="settle d5"><circle cx="838" cy="150" r="46" fill="#d9a21b" opacity="0.92"/></g>
+
+  <g class="settle d2">
+    <use href="#namePath" class="slipRed"/>
+    <use href="#namePath" class="slipGold"/>
+    <use href="#namePath" class="main"/>
+  </g>
+
+  <g class="settle d4"><text class="cjk" x="58" y="208">吳宇涵</text></g>
+</svg>
