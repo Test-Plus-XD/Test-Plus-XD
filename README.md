@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="NG Yu Ham Baldwin 吳宇涵, software developer" width="100%">
+<img src="assets/banner.svg" alt="ﾐTest-Plus 吳宇涵, software developer" width="100%">
 
 <br>
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## Hi, I'm Baldwin ヾ(＾∇＾)
+## Hi, I'm ﾐTest-Plus ヾ(＾∇＾)
 
 Half a year jobless, and my CV now reads like speculative fiction. Employers ghost me so consistently that my inbox seems haunted. Bloody marvellous. (´・ω・`)
 
@@ -29,7 +29,7 @@ Ask me about sharing one backend between Ionic, Flutter and Swift clients, real-
 
 </details>
 
-## What I use
+## What I used at least once
 
 Languages first, then everything else.
 

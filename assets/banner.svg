@@ -1,56 +1,278 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="bannerTitle bannerDesc">
-  <title id="bannerTitle">NG Yu Ham Baldwin 吳宇涵, software developer</title>
-  <desc id="bannerDesc">Name banner with geometric shapes. The lettering settles into place from a diagonal offset; visitors who prefer reduced motion see a simple fade instead.</desc>
-  <!-- Latin lettering is Tektur by Adam Jagosz (SIL Open Font License 1.1), converted to outlines so it renders the same everywhere. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="bannerTitle bannerDesc" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowOTM3ODg5Yi1jYjFmLTRmMzctYmUyOC1lMTQwOTRhZmZmMjUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHeDC6y9yaaTg/V2BJnCDXoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMjA4Nzk2NC1lMjMyLTQ0NzctODM5ZC01OGU2YTVkZjNjMjNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWvpAM78dFf/CPeYjZ6iLuAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggNETBDuSl2AmJTk8rthOhmrF5DHiHMhwxtKoe7FEgJiGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAfpYVNJ+FEaIjGcPdc4KkwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDUnK2qPdrsmErnRON44xR2xIFFCtRUybds27z+Zc0HK2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiyZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA5Mzc4ODliLWNiMWYtNGYzNy1iZTI4LWUxNDA5NGFmZmYyNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc0Y2FiYzRkLWJlN2ItNDYxYS1iYmJhLWU3M2Y5Yjc0YWQ2YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCA0RMEO5KXYCYlOTyu2E6GasXkMeIcyHDG0qh7sUSAmIaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg3ZxgCtV4WhLdpcbSFdjntfwMs1FR327ZWZmJgYeyk5CiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg14IdDRh0UoXog7gQnY4btBQtC9vK49wgLZoCc+TYXX10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQD08i0PzUAqG6rppBv8ku038PEy9C6+ebATMvWczQKTzohKVmOAA9GtF7M/GIShy2lNNtZlL98h7kwRudzP9xuU=</c2pa:manifest></metadata>
+  <title id="bannerTitle">ﾐTest-Plus, software developer</title>
+  <desc id="bannerDesc">Name banner with a square, triangle and circle. Every thirty seconds the shapes fade out, the square pulses in and snaps home, an equilateral triangle rises, and a circle rolls in as the name is typed. Visitors who prefer reduced motion see a simple fade instead.</desc>
+  <!-- Latin lettering is Cormorant Garamond Italic SemiBold (SIL Open Font License 1.1) and the half-width katakana is Noto Serif JP (SIL OFL 1.1), both converted to outlines. -->
+  <!-- Origin values recorded from the previous banner (user units): square x=772 y=68 size=104 scale=1, centre (824,120). -->
+  <!-- Origin triangle points 840,224 900,104 960,224 (isosceles, base 120, height 120). Origin circle cx=838 cy=150 r=46 scale=1. -->
+  <!-- Final composition: the square returns to its origin, the triangle becomes equilateral on the same base, and the circle rests 38.19 units right of its origin where its edge touches the centroid. -->
   <style>
-    .cjk { font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Segoe UI", system-ui, sans-serif; font-size: 46px; font-weight: 700; letter-spacing: 8px; fill: #c9d1d9; }
-    .main    { fill: #f5f5f0; }
-    .slipRed  { fill: #d23b2e; opacity: 0.9; }
+    /* Palette and fringe layers follow the original banner */
+    .main { fill: #f5f5f0; }
+    .slipRed { fill: #d23b2e; opacity: 0.9; }
     .slipGold { fill: #d9a21b; opacity: 0.9; }
-
-    /* Scatter then align: each piece starts 32px down and right, then springs into place with a stagger. */
-    .settle { animation: settle 1.1s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
-    .d1 { animation-delay: 0.05s; }
-    .d2 { animation-delay: 0.15s; }
-    .d3 { animation-delay: 0.25s; }
-    .d4 { animation-delay: 0.35s; }
-    .d5 { animation-delay: 0.45s; }
-    .d6 { animation-delay: 0.55s; }
-    @keyframes settle {
-      from { transform: translate(32px, 32px); opacity: 0; }
-      to   { transform: translate(0, 0); opacity: 1; }
+    /* Rest state for renderers that do not run animations; the keyframes below override it */
+    .triangleMorph { transform: scaleY(0.866025); }
+    .circlePosition { transform: translateX(38.191px); }
+    .caret { opacity: 0; }
+    /* Shared setup: transforms pivot on user-space coordinates and every layer runs the same 30 s loop */
+    .layer { transform-box: view-box; animation-duration: 30s; animation-iteration-count: infinite; animation-fill-mode: both; animation-timing-function: linear; animation-delay: -0.4s; }
+    #scene { animation-name: sceneFade; }
+    .squarePosition { animation-name: squarePosition; }
+    .squareSpin { transform-origin: 824px 120px; animation-name: squareSpin; }
+    .squareScale { transform-origin: 824px 120px; animation-name: squareScale; }
+    .squareOpacity { animation-name: squareOpacity; }
+    .trianglePosition { animation-name: trianglePosition; }
+    .triangleMorph { transform-origin: 900px 224px; animation-name: triangleMorph; }
+    .circlePosition { animation-name: circlePosition; }
+    .circleSquash { transform-origin: 838px 150px; animation-name: circleSquash; }
+    .circleOpacity { animation-name: circleOpacity; }
+    .caret { animation-name: caretOpacity; }
+    .caretMove { animation-name: caretPosition; }
+    .glyph0 { animation-name: glyph0; }
+    .glyph1 { animation-name: glyph1; }
+    .glyph2 { animation-name: glyph2; }
+    .glyph3 { animation-name: glyph3; }
+    .glyph4 { animation-name: glyph4; }
+    .glyph5 { animation-name: glyph5; }
+    .glyph6 { animation-name: glyph6; }
+    .glyph7 { animation-name: glyph7; }
+    .glyph8 { animation-name: glyph8; }
+    .glyph9 { animation-name: glyph9; }
+    /* ### Keyframes: one block per layer, all sharing the 30 s cycle (1 per cent = 0.3 s) */
+    @keyframes sceneFade {
+      0% { opacity: 1; animation-timing-function: cubic-bezier(0.4, 0, 1, 1); }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      1.2% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
     }
-
-    /* Print-style misregistration that resolves into a thin red and gold fringe behind the name. */
-    .slipRed  { animation: slipRed 1.1s cubic-bezier(0.34, 1.56, 0.64, 1) 0.15s both; }
-    .slipGold { animation: slipGold 1.1s cubic-bezier(0.34, 1.56, 0.64, 1) 0.15s both; }
-    @keyframes slipRed  { from { transform: translate(-16px, -8px); opacity: 0; } to { transform: translate(-2px, -1px); opacity: 0.9; } }
-    @keyframes slipGold { from { transform: translate(16px, 10px);  opacity: 0; } to { transform: translate(2px, 1.5px); opacity: 0.9; } }
-
+    @keyframes squarePosition {
+      0% { transform: translate(0.000px, 0.000px); animation-timing-function: linear; }
+      2.1667% { transform: translate(0.000px, 0.000px); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      2.8333% { transform: translate(-324.000px, 30.000px); animation-timing-function: linear; }
+      7.9667% { transform: translate(-324.000px, 30.000px); animation-timing-function: cubic-bezier(0.2, 0.9, 0.3, 1); }
+      8.1667% { transform: translate(0.000px, 0.000px); animation-timing-function: linear; }
+      100% { transform: translate(0.000px, 0.000px); animation-timing-function: linear; }
+    }
+    @keyframes squareSpin {
+      0% { transform: rotate(360.000deg); animation-timing-function: step-end; }
+      1.1667% { transform: rotate(0.000deg); animation-timing-function: linear; }
+      1.5% { transform: rotate(0.000deg); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      2.1667% { transform: rotate(90.000deg); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      2.8333% { transform: rotate(270.000deg); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      3.5% { transform: rotate(180.000deg); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      4.1667% { transform: rotate(0.000deg); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      4.8333% { transform: rotate(90.000deg); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      5.5% { transform: rotate(270.000deg); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      6.1667% { transform: rotate(180.000deg); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      6.8333% { transform: rotate(0.000deg); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      7.5% { transform: rotate(90.000deg); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      7.9667% { transform: rotate(350.000deg); animation-timing-function: cubic-bezier(0.2, 0.9, 0.3, 1); }
+      8.1667% { transform: rotate(360.000deg); animation-timing-function: linear; }
+      100% { transform: rotate(360.000deg); animation-timing-function: linear; }
+    }
+    @keyframes squareScale {
+      0% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      1.5% { transform: scale(1.0000, 1.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      2.1667% { transform: scale(1.8000, 1.8000); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      2.8333% { transform: scale(0.0000, 0.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      3.5% { transform: scale(1.8000, 1.8000); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      4.1667% { transform: scale(0.0000, 0.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      4.8333% { transform: scale(1.8000, 1.8000); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      5.5% { transform: scale(0.0000, 0.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      6.1667% { transform: scale(1.8000, 1.8000); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      6.8333% { transform: scale(0.0000, 0.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      7.5% { transform: scale(1.8000, 1.8000); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      7.9667% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      100% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+    }
+    @keyframes squareOpacity {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: linear; }
+      1.5% { opacity: 0; animation-timing-function: linear; }
+      1.6667% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes trianglePosition {
+      0% { transform: translate(0.000px, 0.000px); animation-timing-function: step-end; }
+      1.1667% { transform: translate(0.000px, 230.000px); animation-timing-function: linear; }
+      8.1667% { transform: translate(0.000px, 230.000px); animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1); }
+      10.6667% { transform: translate(0.000px, -8.000px); animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+      11.5% { transform: translate(0.000px, 0.000px); animation-timing-function: linear; }
+      100% { transform: translate(0.000px, 0.000px); animation-timing-function: linear; }
+    }
+    @keyframes triangleMorph {
+      0% { transform: scale(1.0000, 0.8660); animation-timing-function: step-end; }
+      1.1667% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      8.1667% { transform: scale(1.0000, 1.0000); animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+      10% { transform: scale(1.0000, 0.7960); animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+      11.5% { transform: scale(1.0000, 0.8660); animation-timing-function: linear; }
+      100% { transform: scale(1.0000, 0.8660); animation-timing-function: linear; }
+    }
+    @keyframes circlePosition {
+      0% { transform: translate(38.191px, 0.000px); animation-timing-function: step-end; }
+      1.1667% { transform: translate(-758.000px, 0.000px); animation-timing-function: linear; }
+      9% { transform: translate(-758.000px, 0.000px); animation-timing-function: cubic-bezier(0.55, 0.05, 0.9, 0.5); }
+      13.1667% { transform: translate(38.191px, 0.000px); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      13.6333% { transform: translate(14.191px, 0.000px); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      14.1% { transform: translate(38.191px, 0.000px); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      14.4333% { transform: translate(28.191px, 0.000px); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      14.7667% { transform: translate(38.191px, 0.000px); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      15.0333% { transform: translate(34.191px, 0.000px); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      15.3% { transform: translate(38.191px, 0.000px); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      15.5% { transform: translate(36.691px, 0.000px); animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.5); }
+      15.6667% { transform: translate(38.191px, 0.000px); animation-timing-function: linear; }
+      100% { transform: translate(38.191px, 0.000px); animation-timing-function: linear; }
+    }
+    @keyframes circleSquash {
+      0% { transform: scale(1.0000, 1.0000); animation-timing-function: step-end; }
+      1.1667% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      13.1667% { transform: scale(1.0000, 1.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      13.2667% { transform: scale(0.8400, 1.1600); animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+      13.5% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      14.1% { transform: scale(1.0000, 1.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      14.2% { transform: scale(0.9300, 1.0700); animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+      14.4333% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      14.7667% { transform: scale(1.0000, 1.0000); animation-timing-function: cubic-bezier(0.22, 0.9, 0.36, 1); }
+      14.8667% { transform: scale(0.9700, 1.0300); animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+      15.1% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+      100% { transform: scale(1.0000, 1.0000); animation-timing-function: linear; }
+    }
+    @keyframes circleOpacity {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: linear; }
+      9% { opacity: 0; animation-timing-function: linear; }
+      9.2667% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes caretPosition {
+      0% { transform: translateX(535.780px); animation-timing-function: step-end; }
+      9% { transform: translateX(75.600px); animation-timing-function: step-end; }
+      9.6667% { transform: translateX(141.540px); animation-timing-function: step-end; }
+      10.3333% { transform: translateX(190.820px); animation-timing-function: step-end; }
+      11% { transform: translateX(234.360px); animation-timing-function: step-end; }
+      11.6667% { transform: translateX(276.220px); animation-timing-function: step-end; }
+      12.3333% { transform: translateX(318.920px); animation-timing-function: step-end; }
+      13% { transform: translateX(392.000px); animation-timing-function: step-end; }
+      13.6667% { transform: translateX(426.160px); animation-timing-function: step-end; }
+      14.3333% { transform: translateX(492.240px); animation-timing-function: step-end; }
+      15% { transform: translateX(535.780px); animation-timing-function: step-end; }
+      100% { transform: translateX(535.780px); animation-timing-function: linear; }
+    }
+    @keyframes caretOpacity {
+      0% { opacity: 0; animation-timing-function: step-end; }
+      9% { opacity: 1; animation-timing-function: step-end; }
+      16.6667% { opacity: 0; animation-timing-function: step-end; }
+      17.6667% { opacity: 1; animation-timing-function: step-end; }
+      18.6667% { opacity: 0; animation-timing-function: step-end; }
+      100% { opacity: 0; animation-timing-function: linear; }
+    }
+    @keyframes glyph0 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      9% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph1 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      9.6667% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph2 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      10.3333% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph3 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      11% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph4 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      11.6667% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph5 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      12.3333% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph6 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      13% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph7 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      13.6667% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph8 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      14.3333% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    @keyframes glyph9 {
+      0% { opacity: 1; animation-timing-function: step-end; }
+      1.1667% { opacity: 0; animation-timing-function: step-end; }
+      15% { opacity: 1; animation-timing-function: linear; }
+      100% { opacity: 1; animation-timing-function: linear; }
+    }
+    /* Reduced motion keeps the finished composition and only fades it in once */
+    @keyframes quietFade { from { opacity: 0; } to { opacity: 1; } }
     @media (prefers-reduced-motion: reduce) {
-      .settle { animation: fade 0.4s ease both; }
-      .slipRed  { animation: none; transform: translate(-2px, -1px); }
-      .slipGold { animation: none; transform: translate(2px, 1.5px); }
-      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+      .layer { animation: none; }
+      #scene { animation: quietFade 0.4s ease both; }
     }
   </style>
-
   <defs>
-    <path id="namePath" d="M60.6 146V99.8H72.5L87 122.6V99.8H100.2V146H88.4L73.8 123.2V146H60.6ZM104.7 136.1V109.7L114.6 99.8H139V112.3H119.2V133.5H129.8V128.5H123.2V117.3H142.3V146H114.6L104.7 136.1ZM174.6 146V132.1H169.2L161.1 99.8H176.6L180.2 119.6H183.6L187.2 99.8H202.7L194.6 132.1H189.2V146H174.6ZM240.8 109V146H214.4L205.2 136.8V109H219.7V133.5H226.3V109H240.8ZM262.2 146V99.8H276.8V115.6H285.3V99.8H299.9V146H285.3V128.8H276.8V146H262.2ZM304 136.8V124.9L324.4 124.2V120.9H305.3V109H329.7L339 118.3V146H313.2L304 136.8ZM318.5 131.5V134.8H324.4V130.2L318.5 131.5ZM343.7 109H389.9L399.2 118.3V146H385V120.6H378.4V146H364.5V120.6H357.9V146H343.7V109ZM435.1 118H444.1V111H435.1V118ZM435.1 134.8H445V127.2H435.1V134.8ZM458.9 109V118.3L454.5 121.8L460.2 126.5V136.8L451 146H420.6V99.8H449.7L458.9 109ZM463 136.8V124.9L483.5 124.2V120.9H464.3V109H488.8L498 118.3V146H472.3L463 136.8ZM477.5 131.5V134.8H483.5V130.2L477.5 131.5ZM502.8 146V99.8H517.3V146H502.8ZM557.7 99.8V146H531.3L521.4 136.1V118.9L531.3 109H543.2V99.8H557.7ZM535.9 134.1H543.2V120.9H535.9V134.1ZM566.1 146 560.9 109H575.6L577.9 134.1H578.6L581.8 113H593.4L596.6 134.1H597.2L599.5 109H614.3L609.1 146H591L587.6 127.1L584.1 146H566.1ZM617.4 146V109H632V146H617.4ZM617.4 106.4V97.8H632V106.4H617.4ZM636.7 146V109H663.1L672.4 118.3V146H657.9V121.6H651.3V146H636.7Z"/>
+    <path id="letterPath0" d="M119.44 193.33Q117.34 193.33 114.89 191.02Q112.44 188.71 110.2 186.61Q104.46 181.57 98.72 178.07Q92.98 174.57 86.82 171.77Q80.66 168.97 73.24 165.89L74.08 162.25Q82.34 163.09 90.95 165.4Q99.56 167.71 106.77 170.65Q113.98 173.59 117.9 176.39Q121.54 178.91 123.43 181.5Q125.32 184.09 125.32 186.89Q125.32 189.69 123.71 191.51Q122.1 193.33 119.44 193.33ZM112.02 152.03Q110.62 152.03 109.01 150.98Q107.4 149.93 105.02 147.69Q100.68 144.05 94.24 139.64Q87.8 135.23 77.58 130.75L78.14 127.39Q85.14 127.67 91.23 129.21Q97.32 130.75 102.01 132.57Q106.7 134.39 109.22 135.93Q112.58 137.89 114.75 140.34Q116.92 142.79 116.92 146.15Q116.92 148.25 115.38 150.14Q113.84 152.03 112.02 152.03ZM118.74 120.53Q116.64 120.53 114.96 119.34Q113.28 118.15 110.76 115.91Q105.02 110.87 97.6 106.81Q90.18 102.75 79.68 98.97L80.38 95.33Q90.74 96.17 99.21 98.62Q107.68 101.07 113.14 103.87Q117.34 105.55 120.35 108.42Q123.36 111.29 123.36 114.79Q123.36 117.03 121.89 118.78Q120.42 120.53 118.74 120.53Z"/>
+    <path id="letterPath1" d="M156.82 193.75Q156.54 193.75 156.54 192.91Q156.54 192.07 156.82 192.07Q161.72 192.07 164.31 191.37Q166.9 190.67 168.16 188.57Q169.42 186.47 170.12 182.41L181.46 117.59Q182.44 112.41 181.39 110.8Q180.34 109.19 176.14 109.19H173.9Q169 109.19 164.59 111.85Q160.18 114.51 156.82 119.27Q153.46 124.03 151.5 130.47Q151.36 130.89 150.59 130.68Q149.82 130.47 149.96 130.19Q150.52 128.23 151.43 124.8Q152.34 121.37 153.32 117.31Q154.3 113.25 155.14 109.4Q155.98 105.55 156.4 103.17Q156.68 102.75 157.45 102.82Q158.22 102.89 158.08 103.31Q157.8 105.41 159.9 105.83Q162 106.25 163.54 106.25Q168.72 106.39 175.65 106.53Q182.58 106.67 189.16 106.67Q197.56 106.67 203.3 106.46Q209.04 106.25 213.8 106.25Q217.72 106.25 219.89 105.62Q222.06 104.99 223.04 102.75Q223.32 102.33 224.02 102.4Q224.72 102.47 224.58 103.03Q224.02 105.13 223.11 108.98Q222.2 112.83 221.29 117.03Q220.38 121.23 219.68 124.8Q218.98 128.37 218.7 130.19Q218.56 130.61 217.72 130.54Q216.88 130.47 217.02 129.91Q218.28 123.75 216.95 119.06Q215.62 114.37 212.19 111.78Q208.76 109.19 203.44 109.19H201.2Q196.86 109.19 195.53 111.01Q194.2 112.83 193.36 117.87L182.02 182.41Q181.32 186.47 181.74 188.57Q182.16 190.67 184.54 191.37Q186.92 192.07 191.96 192.07Q192.24 192.07 192.24 192.91Q192.24 193.75 191.96 193.75Q188.46 193.75 184.05 193.61Q179.64 193.47 174.32 193.47Q169.42 193.47 164.94 193.61Q160.46 193.75 156.82 193.75Z"/>
+    <path id="letterPath2" d="M227.66 195.43Q219.82 195.43 215.34 191.44Q210.86 187.45 209.53 181.15Q208.2 174.85 209.6 167.85Q210.58 162.53 213.52 157.14Q216.46 151.75 220.87 147.41Q225.28 143.07 230.88 140.48Q236.48 137.89 242.92 137.89Q248.38 137.89 251.11 139.85Q253.84 141.81 253.42 145.45Q253 148.95 249.71 152.24Q246.42 155.53 241.03 158.12Q235.64 160.71 229.06 162.53Q222.48 164.35 215.48 165.19L215.76 163.37Q225.98 161.83 232.91 158.26Q239.84 154.69 240.96 148.39Q241.66 145.03 240.12 143.35Q238.58 141.67 235.92 141.67Q232.28 141.67 229.34 144.54Q226.4 147.41 224.37 152.31Q222.34 157.21 221.36 163.23Q220.1 170.65 221.15 176.6Q222.2 182.55 225.7 186.12Q229.2 189.69 234.94 189.69Q237.88 189.69 241.38 188.71Q244.88 187.73 248.1 185.35Q248.38 185.07 248.87 185.63Q249.36 186.19 249.08 186.47Q243.76 191.37 238.3 193.4Q232.84 195.43 227.66 195.43Z"/>
+    <path id="letterPath3" d="M269.66 195.29Q263.64 195.29 259.44 192.49Q255.24 189.69 255.8 185.63Q256.22 183.25 257.83 181.92Q259.44 180.59 261.4 180.59Q263.78 180.59 265.11 182.2Q266.44 183.81 267.63 185.84Q268.82 187.87 270.57 189.48Q272.32 191.09 275.4 191.09Q278.34 191.09 279.88 189.48Q281.42 187.87 281.98 184.51Q282.54 180.03 280.58 176.88Q278.62 173.73 275.33 171.21Q272.04 168.69 268.96 166.03Q265.88 163.37 264.06 160.08Q262.24 156.79 263.08 152.31Q263.78 148.53 266.58 145.38Q269.38 142.23 273.72 140.27Q278.06 138.31 283.1 138.31Q289.12 138.31 292.76 140.48Q296.4 142.65 295.98 146.15Q295.7 148.67 293.95 150Q292.2 151.33 290.38 151.33Q287.58 151.33 286.25 149.93Q284.92 148.53 284.08 146.64Q283.24 144.75 281.91 143.35Q280.58 141.95 277.5 141.95Q274.84 141.95 273.44 143.35Q272.04 144.75 271.62 146.71Q270.92 150.77 272.88 153.85Q274.84 156.93 278.13 159.52Q281.42 162.11 284.57 164.91Q287.72 167.71 289.61 171.07Q291.5 174.43 290.8 178.91Q290.1 182.55 287.23 186.4Q284.36 190.25 279.88 192.77Q275.4 195.29 269.66 195.29Z"/>
+    <path id="letterPath4" d="M315.72 195.43Q312.64 195.43 309.84 194.31Q307.04 193.19 305.78 190.18Q304.52 187.17 305.5 181.57L311.1 150.91Q311.94 146.15 311.17 144.75Q310.4 143.35 306.34 143.35Q305.78 143.35 305.85 142.37Q305.92 141.39 306.34 141.39Q312.5 141.39 316.49 137.82Q320.48 134.25 322.58 129.49Q322.72 129.07 323.98 129.21Q325.24 129.35 325.1 129.91L316.42 178.49Q315.44 183.67 317.12 186.12Q318.8 188.57 323.14 188.57Q326.36 188.57 329.37 187.1Q332.38 185.63 335.46 182.97Q335.74 182.69 336.37 183.25Q337 183.81 336.58 184.23Q330.28 190.25 325.38 192.84Q320.48 195.43 315.72 195.43ZM336.72 146.29Q336.44 146.29 333.78 145.94Q331.12 145.59 327.41 145.17Q323.7 144.75 319.92 144.75L320.2 140.97Q324.54 140.97 328.6 140.69Q332.66 140.41 335.81 140.13Q338.96 139.85 340.22 139.85Q340.92 139.85 341.13 140.34Q341.34 140.83 341.2 141.39Q341.06 142.51 339.59 144.4Q338.12 146.29 336.72 146.29Z"/>
+    <path id="letterPath5" d="M344.84 170.65Q344.42 170.65 344.21 168.97Q344 167.29 344 165.54Q344 163.79 344.28 163.79L379.28 157.21Q379.7 157.07 379.91 158.82Q380.12 160.57 380.05 162.25Q379.98 163.93 379.56 164.07Z"/>
+    <path id="letterPath6" d="M384.88 193.75Q384.6 193.75 384.6 192.91Q384.6 192.07 384.88 192.07Q388.94 192.07 391.04 191.37Q393.14 190.67 394.19 188.57Q395.24 186.47 395.94 182.41L407.42 117.59Q408.54 111.43 407.14 109.68Q405.74 107.93 400 107.93Q399.58 107.93 399.58 107.09Q399.58 106.25 400 106.25Q402.94 106.25 406.72 106.46Q410.5 106.67 414.84 106.67Q417.64 106.67 422.47 106.25Q427.3 105.83 431.78 105.83Q439.9 105.83 446.06 108.49Q452.22 111.15 455.3 116.54Q458.38 121.93 456.7 130.33Q455.44 137.47 451.73 142.51Q448.02 147.55 442.98 150.77Q437.94 153.99 432.48 155.53Q427.02 157.07 422.26 157.07Q420.58 157.07 419.25 156.93Q417.92 156.79 416.52 156.37Q416.1 156.23 416.38 154.97Q416.66 153.71 417.22 153.85Q418.2 154.13 419.25 154.27Q420.3 154.41 421.28 154.41Q426.04 154.41 430.66 152.17Q435.28 149.93 438.71 145.24Q442.14 140.55 443.26 133.13Q444.66 125.15 442.84 119.69Q441.02 114.23 437.31 111.36Q433.6 108.49 428.98 108.49Q425.62 108.49 423.73 109.12Q421.84 109.75 420.86 111.78Q419.88 113.81 419.04 117.87L407.7 182.41Q406.72 188.43 408.12 190.25Q409.52 192.07 415.12 192.07Q415.54 192.07 415.54 192.91Q415.54 193.75 415.12 193.75Q412.04 193.75 408.12 193.61Q404.2 193.47 399.72 193.47Q395.52 193.47 391.67 193.61Q387.82 193.75 384.88 193.75Z"/>
+    <path id="letterPath7" d="M469.02 195.01Q464.68 195.01 463.49 191.65Q462.3 188.29 463.56 181.29L476.72 109.89Q477.84 103.73 476.02 102.33Q474.2 100.93 468.18 103.87Q467.62 104.15 467.34 103.31Q467.06 102.47 467.62 102.33L488.06 92.25Q488.76 91.97 489.32 92.53Q489.88 93.09 489.74 93.37L473.92 181.29Q472.94 185.35 473.71 186.89Q474.48 188.43 475.74 188.43Q477.28 188.43 479.31 186.89Q481.34 185.35 483.72 182.97Q484.28 182.41 484.84 182.97Q485.4 183.53 484.84 184.09Q480.5 189.27 476.72 192.14Q472.94 195.01 469.02 195.01Z"/>
+    <path id="letterPath8" d="M508.22 195.57Q502.2 195.57 499.89 191.09Q497.58 186.61 499.54 177.09L504.44 152.17Q505.14 147.97 504.51 146.5Q503.88 145.03 502.48 145.03Q500.94 145.03 498.98 146.57Q497.02 148.11 494.5 150.49Q493.94 151.05 493.38 150.49Q492.82 149.93 493.38 149.37Q497.86 144.05 501.57 141.25Q505.28 138.45 509.2 138.45Q513.12 138.45 514.66 141.6Q516.2 144.75 514.52 152.17L510.18 174.43Q508.64 181.57 509.83 185Q511.02 188.43 514.38 188.43Q518.58 188.43 523.13 182.97Q527.68 177.51 531.67 166.94Q535.66 156.37 538.32 141.11L540.56 141.25Q537.76 157.77 532.86 170.02Q527.96 182.27 521.66 188.92Q515.36 195.57 508.22 195.57ZM536.36 195.01Q532.3 195.01 531.11 191.93Q529.92 188.85 531.04 182.55L538.32 141.11Q538.88 138.59 544.9 138.59Q547.42 138.59 548.26 138.94Q549.1 139.29 549.1 139.57Q549.1 140.13 548.4 143.28Q547.7 146.43 547 150.07L541.26 181.29Q540 188.57 543.5 188.57Q544.9 188.57 547.14 187.1Q549.38 185.63 552.04 182.69Q552.46 182.13 553.09 182.76Q553.72 183.39 553.16 183.95Q548.26 189.83 544.34 192.42Q540.42 195.01 536.36 195.01Z"/>
+    <path id="letterPath9" d="M571.08 195.29Q565.06 195.29 560.86 192.49Q556.66 189.69 557.22 185.63Q557.64 183.25 559.25 181.92Q560.86 180.59 562.82 180.59Q565.2 180.59 566.53 182.2Q567.86 183.81 569.05 185.84Q570.24 187.87 571.99 189.48Q573.74 191.09 576.82 191.09Q579.76 191.09 581.3 189.48Q582.84 187.87 583.4 184.51Q583.96 180.03 582 176.88Q580.04 173.73 576.75 171.21Q573.46 168.69 570.38 166.03Q567.3 163.37 565.48 160.08Q563.66 156.79 564.5 152.31Q565.2 148.53 568 145.38Q570.8 142.23 575.14 140.27Q579.48 138.31 584.52 138.31Q590.54 138.31 594.18 140.48Q597.82 142.65 597.4 146.15Q597.12 148.67 595.37 150Q593.62 151.33 591.8 151.33Q589 151.33 587.67 149.93Q586.34 148.53 585.5 146.64Q584.66 144.75 583.33 143.35Q582 141.95 578.92 141.95Q576.26 141.95 574.86 143.35Q573.46 144.75 573.04 146.71Q572.34 150.77 574.3 153.85Q576.26 156.93 579.55 159.52Q582.84 162.11 585.99 164.91Q589.14 167.71 591.03 171.07Q592.92 174.43 592.22 178.91Q591.52 182.55 588.65 186.4Q585.78 190.25 581.3 192.77Q576.82 195.29 571.08 195.29Z"/>
+    <clipPath id="panelClip"><rect x="1" y="1" width="998" height="298" rx="18"/></clipPath>
   </defs>
-
   <rect x="1" y="1" width="998" height="298" rx="18" fill="#12151a" stroke="#2a2f37" stroke-width="2"/>
-
-  <!-- Geometric motif: square, triangle and circle -->
-  <g class="settle d1"><rect x="772" y="68" width="104" height="104" fill="none" stroke="#f5f5f0" stroke-width="4"/></g>
-  <g class="settle d3"><polygon points="840,224 900,104 960,224" fill="#d23b2e"/></g>
-  <g class="settle d5"><circle cx="838" cy="150" r="46" fill="#d9a21b" opacity="0.92"/></g>
-
-  <g class="settle d2">
-    <use href="#namePath" class="slipRed"/>
-    <use href="#namePath" class="slipGold"/>
-    <use href="#namePath" class="main"/>
+  <g clip-path="url(#panelClip)">
+    <g id="scene" class="layer">
+      <!-- Square: position, spin, scale and opacity are nested so each keeps its own easing -->
+      <g class="layer squarePosition"><g class="layer squareOpacity"><g class="layer squareSpin"><g class="layer squareScale">
+        <rect x="772" y="68" width="104" height="104" fill="none" stroke="#f5f5f0" stroke-width="4"/>
+      </g></g></g></g>
+      <!-- Triangle: drawn at the origin shape and morphed by a vertical scale about its base centre -->
+      <g class="layer trianglePosition"><g class="layer triangleMorph">
+        <polygon points="840,224 900,104 960,224" fill="#d23b2e"/>
+      </g></g>
+      <!-- Circle: travels, squashes on contact and fades in at its starting position -->
+      <g class="layer circleOpacity"><g class="layer circlePosition"><g class="layer circleSquash">
+        <circle cx="838" cy="150" r="46" fill="#d9a21b" opacity="0.92"/>
+      </g></g></g>
+      <!-- Name: one group per glyph so each letter can appear on its own typewriter beat -->
+      <g class="layer glyph0"><use href="#letterPath0" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath0" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath0" class="main"/></g>
+      <g class="layer glyph1"><use href="#letterPath1" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath1" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath1" class="main"/></g>
+      <g class="layer glyph2"><use href="#letterPath2" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath2" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath2" class="main"/></g>
+      <g class="layer glyph3"><use href="#letterPath3" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath3" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath3" class="main"/></g>
+      <g class="layer glyph4"><use href="#letterPath4" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath4" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath4" class="main"/></g>
+      <g class="layer glyph5"><use href="#letterPath5" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath5" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath5" class="main"/></g>
+      <g class="layer glyph6"><use href="#letterPath6" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath6" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath6" class="main"/></g>
+      <g class="layer glyph7"><use href="#letterPath7" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath7" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath7" class="main"/></g>
+      <g class="layer glyph8"><use href="#letterPath8" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath8" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath8" class="main"/></g>
+      <g class="layer glyph9"><use href="#letterPath9" class="slipRed" transform="translate(-1.5 -1)"/><use href="#letterPath9" class="slipGold" transform="translate(1.5 1)"/><use href="#letterPath9" class="main"/></g>
+      <g class="layer caretMove"><rect class="layer caret" x="68" y="100.25" width="3" height="101.50" fill="#d9a21b"/></g>
+    </g>
   </g>
-
-  <g class="settle d4"><text class="cjk" x="58" y="208">吳宇涵</text></g>
 </svg>
