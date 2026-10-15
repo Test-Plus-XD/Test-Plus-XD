@@ -51,7 +51,7 @@ Outsourcing Thinking: ![Claude Code](https://img.shields.io/badge/Claude_Code-D9
 
 Operating Systems: ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCwwSDExLjM3N1YxMS4zNzJIMFpNMTIuNjIzLDBIMjRWMTEuMzcySDEyLjYyM1pNMCwxMi42MjNIMTEuMzc3VjI0SDBabTEyLjYyMywwSDI0VjI0SDEyLjYyMyIvPjwvc3ZnPg%3D%3D) ![Windows 10](https://img.shields.io/badge/Windows_10-0078D4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMjYgMS42MzdsLTY3IDkuODM0djQ5LjgzMWw2Ny0uNTM0ek0xLjY0NyA2Ni43MDlsLjAwMyA0Mi40MDQgNTAuNzkxIDYuOTgzLS4wNC00OS4wNTd6bTU2LjgyLjY4bC4wOTQgNDkuNDY1IDY3LjM3NiA5LjUwOS4wMTYtNTguODYzek0xLjYxIDE5LjI5N2wuMDQ3IDQyLjM4MyA1MC43OTEtLjI4OS0uMDIzLTQ5LjAxNnoiLz48L3N2Zz4%3D) ![macOS](https://img.shields.io/badge/macOS-2B3137?style=flat-square&logo=macos&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-## Pour Rice 倒米 (◕ᴗ◕✿)
+## Pour Rice 倒米
 
 It helps people in Hong Kong find vegetarian restaurants, book tables and ask questions about menus. Restaurant owners get their own side of the app too, so they can chat with diners, take bookings and pay to promote their place. Everything works in English and Traditional Chinese.
 
@@ -98,12 +98,12 @@ The main client is the Ionic/Angular web app ([code](https://github.com/Test-Plu
 - A card-matching game in Java Swing with flip animations and audio ([code](https://github.com/Test-Plus-XD/NetBeans-Projects/tree/main/CardMatchingGame), [demo](https://youtu.be/yxGm6arDMzs)).
 - [Computer-Science-Lab](https://github.com/Test-Plus-XD/Computer-Science-Lab) is my practice repo: C++ exercises, Java, HTML and CSS, Access databases, and Python notebooks on NumPy, Matplotlib and Keras (perceptron, XOR, MNIST).
 
-## What I'm poking at now (｀・ω・´)
+## What I'm poking at now
 
 - Local LLM apps. The RAG bot above is the start of it.
 - Object detection in difficult visual conditions, with friends at HKMU, using Ultralytics YOLO and PyTorch.
 
-## The boring bits ( ˘▽˘)
+## The boring bits
 
 I finished a Higher Diploma in Computer Studies (Mobile Applications and Game Development) at the Hong Kong College of Technology in 2026, with a GPA of 4.1 at the end. Back at school I took part in the 3rd S.K.H. Secondary Schools Robot Competition (2020 to 2021), where I designed robots and their control programmes and made an early attempt at getting them to read road signs with AI.
 
